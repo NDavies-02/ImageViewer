@@ -1,0 +1,19 @@
+C:\Users\cherry\Documents\Nathan`s files\Visual Studio\Pic Viewer\Pic Viewer\bin\Debug\Pic Viewer.exe.config
+C:\Users\cherry\Documents\Nathan`s files\Visual Studio\Pic Viewer\Pic Viewer\bin\Debug\Pic Viewer.exe
+C:\Users\cherry\Documents\Nathan`s files\Visual Studio\Pic Viewer\Pic Viewer\bin\Debug\Pic Viewer.pdb
+C:\Users\cherry\Documents\Nathan`s files\Visual Studio\Pic Viewer\Pic Viewer\obj\Debug\Pic Viewer.csprojResolveAssemblyReference.cache
+C:\Users\cherry\Documents\Nathan`s files\Visual Studio\Pic Viewer\Pic Viewer\obj\Debug\Pic_Viewer.Properties.Resources.resources
+C:\Users\cherry\Documents\Nathan`s files\Visual Studio\Pic Viewer\Pic Viewer\obj\Debug\Pic Viewer.csproj.GenerateResource.Cache
+C:\Users\cherry\Documents\Nathan`s files\Visual Studio\Pic Viewer\Pic Viewer\obj\Debug\Pic Viewer.exe
+C:\Users\cherry\Documents\Nathan`s files\Visual Studio\Pic Viewer\Pic Viewer\obj\Debug\Pic Viewer.pdb
+C:\Users\cherry\Documents\Nathan`s files\Visual Studio\Pic Viewer\Pic Viewer\obj\Debug\Pic_Viewer.Form1.resources
+C:\Users\natha\Documents\Programming (Other)\Picture Viewer\Pic Viewer\bin\Debug\Pic Viewer.exe.config
+C:\Users\natha\Documents\Programming (Other)\Picture Viewer\Pic Viewer\bin\Debug\Pic Viewer.exe
+C:\Users\natha\Documents\Programming (Other)\Picture Viewer\Pic Viewer\bin\Debug\Pic Viewer.pdb
+C:\Users\natha\Documents\Programming (Other)\Picture Viewer\Pic Viewer\obj\Debug\Pic Viewer.csprojAssemblyReference.cache
+C:\Users\natha\Documents\Programming (Other)\Picture Viewer\Pic Viewer\obj\Debug\Pic_Viewer.Form1.resources
+C:\Users\natha\Documents\Programming (Other)\Picture Viewer\Pic Viewer\obj\Debug\Pic_Viewer.Properties.Resources.resources
+C:\Users\natha\Documents\Programming (Other)\Picture Viewer\Pic Viewer\obj\Debug\Pic Viewer.csproj.GenerateResource.cache
+C:\Users\natha\Documents\Programming (Other)\Picture Viewer\Pic Viewer\obj\Debug\Pic Viewer.csproj.CoreCompileInputs.cache
+C:\Users\natha\Documents\Programming (Other)\Picture Viewer\Pic Viewer\obj\Debug\Pic Viewer.exe
+C:\Users\natha\Documents\Programming (Other)\Picture Viewer\Pic Viewer\obj\Debug\Pic Viewer.pdb
